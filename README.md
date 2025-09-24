@@ -1,7 +1,7 @@
 # FEM Solver – Tent String Example
 
 This repo contains the Python code (`fem_solver.py`) used in my blog post:  
-**[Relax the Rules to Solve Hard Problems – A Hands-on Introduction to FEM]([https://medium.com/@adityajabade1/relax-the-rules-to-solve-hard-problems-080880538b00])**
+**[Relax the Rules to Solve Hard Problems – A Hands-on Introduction to FEM](https://medium.com/@adityajabade1/relax-the-rules-to-solve-hard-problems-080880538b00)**
 
 The script demonstrates how the **Finite Element Method (FEM)** can be applied to solve a 1D string displacement problem with a point load (Dirac delta), showing the transition from physics → weak form → matrix system → numerical solution.
 
